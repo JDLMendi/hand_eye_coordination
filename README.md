@@ -10,3 +10,5 @@ The idea of this experiment is that a user is placed in front of a grid of 4x4 d
 
 The Eye-Tracking project from my FYP brought a bit of inspiration on how vision plays a role in our decision making, what happens if we alter our vision in a quick decision base making task?
 
+_Neuroscience plays a role in how information is processed, and Vision plays a role on how we gather information._
+
